@@ -1,6 +1,6 @@
 #!/bin/bash
 # example usage: 
-#   shetlv cbb_conf etlv
+#   shetlv,sh cbb_conf etlv
 # mix and match 'etlv' as needed  
 #  (e)xtract 
 #  (t)ransform
@@ -17,6 +17,7 @@
 # todo: add usage, validations
 # todo: other db support
 # todo: browser plugin -> config file -> sheltv.sh
+#
 ### colors
 RED='\033[0;31m';
 YELLOW='\033[1;33m';
