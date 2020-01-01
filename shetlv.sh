@@ -1,6 +1,6 @@
 #!/bin/bash
 # example usage: 
-#   shetlv,sh cbb_conf etlv
+#   shetlv.sh cbb_conf etlv
 # mix and match 'etlv' as needed  
 #  (e)xtract 
 #  (t)ransform
